@@ -7,7 +7,8 @@ using System.Windows.Forms;
 /**
  * Author : Christopher Ritchil
  * Student # : 300702644
- * Date : August 19th, 2016
+ * Date Created : August 19th, 2016
+ * Date updated: August 19th, 2016
  * Description : This application demonstrate Movie Bonanza  for COMP123 programming II Assignment
  * Version : Final version 
  */
